@@ -26,7 +26,7 @@ global.owner = [
   ['5493483466763', '👑 Ehl villano 👑', true],
   ['50259727165', 'MOD-DECO', true],
   ['5217551392489', 'MOD-Jaz', true],
-  ['5217773461176', 'MOD-ALEXA', true],
+  ['5212218991373', 'MOD-ALEXA', true],
 ];
 
 global.suittag = ['5493483466763'];
